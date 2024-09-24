@@ -1,5 +1,6 @@
 # Login-System
-![image](https://github.com/user-attachments/assets/8e15ccde-8dcd-422e-85a9-ac57aa45d030)
+![image](https://github.com/user-attachments/assets/aff2a602-da02-4b8b-b154-742fc11e72e8)
+
 # User Registration and Login System
 
 This is a simple user registration and login system built using HTML, CSS, JavaScript, PHP, and MySQL. The application allows users to create an account, log in, and manage their sessions securely.
